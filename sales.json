@@ -1,0 +1,26 @@
+[
+      {
+            "product": "mobile",
+            "quantity": 5,
+            "price": 1000,
+            "date": "2013-10-21T13:28:06.419Z"
+      },
+      {
+            "product": "tv",
+            "quantity": 6,
+            "price": 2000,
+            "date": "2014-10-21T13:28:06.419Z"
+      },
+      {
+            "product": "laptop",
+            "quantity": 10,
+            "price": 3000,
+            "date": "2015-10-21T13:28:06.419Z"
+      },
+      {
+            "product": "freeze",
+            "quantity": 8,
+            "price": 2500,
+            "date": "2016-10-21T13:28:06.419Z"
+      }
+]
